@@ -1,4 +1,4 @@
 {
   "active": false,
-  "message": "NETWORK_ERROR"
+  "error_message": "ERROR - NETWORK_ERROR"
 }
